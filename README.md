@@ -1,4 +1,5 @@
-# LangGraph-Agent
+# LangGraph Smart Question Answering Agent with Intelligent Internet Search
+
 This is a simple LangGraph agent application that answers user's queries by deciding whether the answer should be given by a large langugae model or by real-time internet serach.  
 
 The application creates an AI agent using Groq’s free API and LangGraph, demonstrating how AI agents can combine decision-making workflows and real-time internet searches to enhance functionality.  
