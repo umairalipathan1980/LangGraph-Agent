@@ -4,7 +4,21 @@ This is a simple LangGraph agent application that answers user's queries by deci
 
 The application creates an AI agent using Groq’s free API and LangGraph, demonstrating how AI agents can combine decision-making workflows and real-time internet searches to enhance functionality.  
 
-This application is based on my article [How to Develop a Free AI Agent with Automatic Internet Search](https://ai.gopubby.com/how-to-develop-a-free-ai-agent-with-automatic-internet-search-5ea24928d26b)
+This application is based on my article [How to Develop a Free AI Agent with Automatic Internet Search](https://ai.gopubby.com/how-to-develop-a-free-ai-agent-with-automatic-internet-search-5ea24928d26b)  
+
+# LangGraph workflow
+<p align="center">
+  <img src="images/mermaid-diagram-2025-01-12-012445.png" alt="My Figure" width="700">
+  <br>
+  <em>LangGraph workflow for the agent.</em>
+</p>  
+
+# Streamlit application
+<p align="center">
+  <img src="images/lang2.png" alt="My Figure" width="700">
+  <br>
+  <em>A snapshot of the Streamlit application showing answers to two different questions: one answer from LLM, and the other from intelligent web search.</em>
+</p>  
 
 # How to use
 Clone the repository:  
